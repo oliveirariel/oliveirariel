@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oliveirariel
-- 👀 I’m interested in Data Engineering in the Cloud, Machine Learning, 
-- 🌱 I’m currently learning how to improve my python codes
-- 💞️ I’m looking to collaborate on any data projects
+- 👀 I’m interested in Data Engineering in the Cloud, Machine Learning and Big Data
+- 🌱 I’m currently learning how to improve my python codes and how to use Hadoop 
+- 💞️ I’m looking to collaborate on any big data projects and AWS related
 - 📫 How to reach me https://www.linkedin.com/in/ariel-oliveira-9212541b6/
 
 <!---
